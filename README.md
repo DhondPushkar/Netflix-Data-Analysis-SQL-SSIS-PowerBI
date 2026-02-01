@@ -46,17 +46,6 @@ Business questions answered:
 
 ---
 
-## 📂 Repository Structure
-Netflix-Data-Analysis-SQL-SSIS-PowerBI/
-├── data/
-├── sql/
-├── ssis/
-├── powerbi/
-├── README.md
-└── .gitignore
-
----
-
 ## 📊 Key Insights
 - Movies dominate Netflix’s content library
 - India is among the top content-producing countries
